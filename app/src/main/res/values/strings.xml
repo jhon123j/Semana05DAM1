@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Semana05AppFormsAndroid</string>
+    <string name="titulopersona">REGISTRO DE PERSONAS</string>
+    <string name="valBtnIrRegistro">REGISTRAR PERSONAS</string>
+    <string name="valBtnIrListado">VER LISTA DE PERSONAS</string>
+    <string name="valTituloRegsitro">REGISTRO DE PERSONAS</string>
+    <string name="valEtNombre">Ingrese su nombre\n</string>
+    <string name="valEtApellido">Ingrese su apellido</string>
+    <string name="valRbMasculino">Masculino</string>
+    <string name="valRbFemenino">Femenino</string>
+    <string name="cbDeporte">Deporte</string>
+    <string name="valCbArte">Arte</string>
+    <string name="valCbOtros">Otras preferencias</string>
+    <string name="valSwNotificacion">¿Desea recibir notificaciones?</string>
+    <string name="valCbArteyC">Arte y Creatividad</string>
+    <string name="valBtnRegistrar">Registrar persona</string>
+    <string name="tituloListado">Lista de personas registradas</string>
+</resources>
